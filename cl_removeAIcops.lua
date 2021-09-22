@@ -3,8 +3,8 @@ ___________________________________________________________________________
 						
 						AUTHOR : Hjuiihu
 
-			Plus aucune armes droppées par les PNJ
-			Peds wont drop weapons no more
+			         Plus de AI flic et militaire
+			         No More AI cop and military
 		
 
 ____________________________________________________________________________					
